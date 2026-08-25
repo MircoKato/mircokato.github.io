@@ -5,3 +5,4 @@ logo: /assets/img/logo.jpg
 
 show_downloads: false #rimuove tasti per download codice
 is_project_page: false #rimuove link al repository Github
+is_user_page: false #rimuove link al profilo Github
