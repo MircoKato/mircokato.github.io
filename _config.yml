@@ -1,6 +1,7 @@
 theme: jekyll-theme-minimal
 title: MircoKato
 description: Un dedalo di giochi di ruolo.
+logo: /assets/img/logo.jpg
 
 show_downloads: false #rimuove tasti per download codice
 is_project_page: false #rimuove link al repository Github
